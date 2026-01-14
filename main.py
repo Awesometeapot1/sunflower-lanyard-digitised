@@ -405,13 +405,13 @@ btn_ground_next.on_press = grounding_next
 # ============================================================
 CONTACT_TEXT = (
     "CONTACT DETAILS\n\n"
-    "Name: Izabel Maciver\n"
+    "Name: -------\n"
     "Pronouns: She/Her\n"
-    "Phone: 07951421415\n\n"
+    "Phone: -------\n\n"
     "Emergency Contact\n"
-    "Name: Jayne Maciver\n"
-    "Relationship: Mother\n"
-    "Phone: 07810106275\n\n"
+    "Name: ------\n"
+    "Relationship: -------\n"
+    "Phone: ----------\n\n"
     "Medical Notes\n"
     "- Please be patient.\n"
     "- Prefer text / yes-no questions.\n"
